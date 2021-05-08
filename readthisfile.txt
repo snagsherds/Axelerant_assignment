@@ -1,0 +1,3 @@
+To Execute:
+1)Need to Install a Xampp or Wampp for php execution.
+2)Paste the Polling file that contains the tables for mysql queries in your database.
